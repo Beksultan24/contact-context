@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Almazbek",
+      "number": "+996798766866",
+      "photo": "https://www.gezitter.org/files/media/71/71977.jpg",
+      "id": 2
+    },
+    {
+      "name": "Ishenbai",
+      "number": "+996334995932",
+      "photo": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/754598621608930.jpeg",
+      "id": 5
+    },
+    {
+      "name": "Askar",
+      "number": "+997838222424",
+      "photo": "https://m.gezitter.org/cache/files/news/23882_w260_resize.jpg",
+      "id": 6
+    },
+    {
+      "name": "Sadyr",
+      "number": "+996555325242",
+      "photo": "https://sputnik.kg/img/07e5/02/02/1051312684_477:0:2348:1871_1920x0_80_0_0_d23921dcc5c9ebbfb029ee96de3372ea.jpg",
+      "id": 7
+    }
+  ]
+}
